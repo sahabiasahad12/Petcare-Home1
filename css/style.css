@@ -1,0 +1,480 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-family: 'source sans 3', sans-serif;
+    font-size: 14px;
+    line-height: 1.7em;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'source sans 3', sans-serif;
+}
+a, a:hover{
+    text-decoration: none;
+}
+.bg-body-tertiary {
+    margin: -10px;
+}
+.banner span{
+    background: #ffcb0f;
+    border-radius: 2px;
+}
+
+.banner-description{
+    width: 100%;
+    padding: 10px 0px;
+    background: url("../images/shor.png") center top no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.mb-lg-0{
+    color: #d5d6d9;
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 500;
+    margin: 0px 0px 0px 25px;
+}
+.navbar-brand {
+    margin: 0px 0px 0px 20px;
+}
+.navbar-brand {
+    padding: 14px;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    margin: 9px;
+}
+.banner{
+    width: 100%;
+    padding: 180px 0px;
+}
+.info{
+    width: 100%;
+}
+.info img{
+    margin: 0px 0px 20px;
+}
+.info p{
+    font-size: 14px;
+    line-height: 1.7em;
+}
+.top-header{
+    background: #ffcb0f;
+}
+
+.nav-link{
+    padding: 40px;
+}
+.banner-description h1{
+    font-size: 40px;
+    font-weight: 600;
+    color: #fff;
+    margin: 0px 90px;
+}
+.banner-description p{
+    font-size: 13px;
+    color: #e6ecf1;
+    margin: 10px 90px;
+}
+.banner .action-buttons{
+    width: 100%;
+    padding: 40px 0px 0px;
+}
+.banner .action-buttons .btn-primary{
+    padding: 10px 19px;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background: #fff;
+    border: 1px solid #000;
+    color: #000;
+    margin: 0px 83px;
+}
+.banner .action-buttons .btn-primary:hover{
+    background: #08c;
+    border: 1px solid #08c;
+    color: #000;
+}
+.ondurationchange .ondurationchang{
+    text-align: center;
+}
+.ondurationchange .ondurationchan h2{
+    font-size: 25px;
+    font-weight: 300;
+    text-align: center;
+    margin: 20px;
+    text-transform: uppercase;
+    color: #333333; 
+}
+.ondurationchange .ondurationcha p{
+    font-size: 13px;
+    text-align: center;
+    color: #8e8e8e;
+}
+.ondurationch{
+    margin: 60px;
+    text-align: center;
+}
+.ondurationc h3{
+    font-size: 18px;
+    font-weight: 600;
+    margin: -50px;
+    text-align: center;
+    color: #333333;
+}
+.onduratio{
+    text-align: center;
+    padding: 50px;
+}
+.onduration p{
+    font-size: 14px;
+    margin: -43px;
+    text-align: center;
+    color: #8e8e8e;
+}
+.ondurati h4{
+    font-size: 18px;
+    margin: 65px 0px 0px -32px;
+    text-align: center;
+    color: #8e8e8e;
+}
+.inner-feature{
+    padding: 70px;
+}
+.inner-feature .Lorem h1{
+    font-size: 35px;
+    font-weight: 300;
+    color: #333;
+    margin: -7px;
+}
+.inner-feature .dir p{
+    font-size: 14px;
+    color: #8e8e8e;
+    font-weight: 300;
+    margin: 20px -8px;
+}
+.inner-feature  .lang{
+    width: 100%;
+    padding: 40px 0px 0px;
+}
+.inner-feature  .lang .btn-primary{
+    padding: 10px 19px;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin: 0px -12px;
+    letter-spacing: 1px;
+    background: #fff;
+    border: 1px solid #000;
+    color: #000;
+}
+.inner-feature  .lang .btn-primary:hover{
+    background: #0f2fe3;
+    border: 1px solid #0f2fe3;
+    color: #fff;
+}
+.demo{
+    width: 100%;
+    padding: 50px;
+    background: #f8f8f8;
+}
+.demo .col{
+    text-align: center;
+}
+.demo .lg h1{
+    font-size: 32px;
+    margin: 17px;
+    text-align: center;
+    color: #333;
+    text-align: center;
+}
+.demo .org h2{
+    font-size: 17px;
+    text-transform: uppercase;
+    margin: 30px;
+    text-align: center;
+}
+.demo .org .nav .nav-link{
+    text-align: center;
+}
+.demo .navbarSupportedContent{
+    margin: 0px 0px 20px;
+}
+.bootstrap .col{
+    text-align: center;
+}
+.bootstrap .lx h1{
+    font-size: 30px;
+    font-weight: 300;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 20px;
+    color: #333; 
+}   
+.bootstrap .navbarSupportedConte h3{
+    font-size: 20px;
+    margin: -42px 60px;
+    color: #cfcfcf;
+}
+.bootstrap .navbarSupportedCont p{
+    padding: 76px 0px;
+    font-size: 13px;
+    color: #979797;
+}
+.Classroom{
+    width: 100%;
+    padding: 10px 0px;
+    background: url("../images/sb20.png") center top no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.Classroom .col{
+    text-align: center;
+}
+.Classroom .lg h1{
+    font-size: 26px;
+    font-weight: 300;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 20px;
+    color: #333; 
+}
+.Classroom .shoriful{
+    padding: 90px 0px;
+}
+.Classroom .shoriful h3{
+    font-size: 20px;
+    font-weight: 600;
+    color: #333;
+    margin: -70px 20px;
+}
+.Classroom .rajib h4{
+    font-size: 14px;
+    color: #979797;
+    padding: 75px 20px;
+}
+.priching .col{
+    text-align: center;
+}
+.priching .title h1{
+    text-align: center;
+}
+.priching .card-top h5{
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: -9px 17px;
+    color: #333333;  
+}
+.priching .class h5{
+    font-size: 25px;
+    font-weight: 600;
+    margin: 32px 16px;
+    color: #333333;
+}
+.priching .class h5 span{
+    font-size: 15px;
+    font-weight: 300;
+    color: #b8b8b8;
+}
+.priching .development h5{
+    font-size: 15px;
+    margin: -3px 16px;
+    color: #979797;
+}
+.priching .hidden h5{
+    font-size: 15px;
+    margin: 20px 16px;
+    color: #979797;
+}
+.janina{
+    margin: 45px 20px;
+}
+.sunina{
+    margin: 45px 0px;
+}
+.bolbona{
+   margin: 45px -8px;
+}
+.parina{
+   margin: 45px 10px; 
+}
+.priching  .lang .btn-primary{
+    padding: 10px 19px;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin: 36px 17px;
+    letter-spacing: 1px;
+    background: #fff;
+    border: 1px solid #000;
+    color: #000;
+
+}
+.priching  .lang .btn-primary:hover{
+    background: #0aea0a;
+    border: 1px solid #0aea0a;
+    color: #fff;
+}
+.priching .card{
+    padding: 15px;
+}
+.responsive{
+    width: 100%;
+    padding: 70px 0px;
+    background: #f8f8f8;
+}
+.responsive .usa h3{
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #333333;
+}
+.responsive  .lang .btn-primary{
+    padding: 10px 27px;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: -11px 13pc;
+    letter-spacing: 1px;
+    background: #fff;
+    border: 1px solid #000;
+    color: #000;
+
+}
+.responsive  .lang .btn-primary:hover{
+    background: #f9084c;
+    border: 1px solid #f9084c;
+    color: #fff;
+}
+.linking{
+    width: 100%;
+    padding: 70px 140px;
+
+}
+.linking .cdn{
+    padding: 20px;
+}
+.linking .Month{
+    text-align: center;
+}
+.linking .https h4{
+    font-size: 17px;
+    font-weight: 600;
+    margin: 19px -1px;
+    text-transform: uppercase;
+    color: #333333;
+}
+.linking .pari h5{
+    font-size: 17px;
+    margin: -12px -3px;
+    color: #b8b8b8;
+}
+.linking .js h3{
+    font-size: 17px;
+    margin: 21px -3px;
+    color: #333333;
+}
+.linking .net p{
+    font-size: 14px;
+    margin: 21px -3px;
+    color: #a0a0a0;
+}
+.Contact-US{
+    padding: 190px;
+}
+.Contact-US .Contact-box{
+    width: 700px;
+    background: #fff;
+    box-shadow: 0 0 20px 0 #999;
+    padding: 0px 190px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+}
+.form{
+    margin: 35px;
+}
+.input-field{
+    width: 300px;
+    height: 40px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #777;
+    border-radius: 14px;
+    outline: none;
+}
+.textarea-field{
+    height: 150px;
+    padding-top: 10px;
+}
+.Contact-US  .lang .btn-primary{
+    padding: 10px 27px;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 12px 0pc;
+    letter-spacing: 1px;
+    background: #fff;
+    border: 1px solid #000;
+    color: #000;
+
+}
+.Contact-US  .lang .btn-primary:hover{
+    background: #f9084c;
+    border: 1px solid #f9084c;
+    color: #fff;
+}
+.footer{
+    width: 100%;
+    padding: 10px 0px;
+    background: url("../images/sb28.png") center top no-repeat;
+    background-size: cover;
+}
+
+
+.footer{
+    width: 100% ;
+    padding: 90px 0px ;
+
+}
+.footer h1{
+    font-size: 32px ;
+    font-weight:600;
+    text-transform: uppercase ;
+    color: #fff;
+}
+.footer p{
+    font-size: 14px ;
+    font-weight: 500 ;
+    margin: 20px 0px ;
+    color: #fff;
+}
+
+.footer ul{
+    padding: 0px ;
+    color: #fff;
+}
+.footer ul li{
+    list-style: none ;
+    font-size: 18px ;
+    font-weight: 500 ;
+    text-transform: capitalize ;
+    color: #fff;
+}
+.footer .active{
+    font-size: 22px ;
+    font-weight: 700 ;
+    text-transform: uppercase ;
+    color: #fff;
+}
+.footer-low{
+    width: 100% ;
+    padding: 20px 0px ;
+    text-align: center ;
+    background: #00C5E1;
+}
+.footer-low p{
+    font-size: 18px ;
+    font-weight: 500 ;
+    margin-top: 10px ;
+}
